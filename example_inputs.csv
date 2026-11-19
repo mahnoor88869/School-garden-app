@@ -1,0 +1,6 @@
+record_id,moisture_pct,temp_c,days_since_water,humidity_pct,light
+P04_0003,49,30,2,82,sunny
+P04_0006,62,39,0,50,shade
+P04_0017,41,26,2,59,sunny
+P04_0018,17,29,4,42,sunny
+P04_0020,37,20,2,71,shade

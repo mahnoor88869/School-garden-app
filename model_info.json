@@ -1,0 +1,6 @@
+{
+  "image_model_file": "school_garden_final_cnn.keras",
+  "image_preprocessing": "mobilenet_v2",
+  "fallback_image_model_file": "images.keras",
+  "note": "If school_garden_final_cnn.keras is missing, the app uses images.keras (raw 0-255 pixels, rescaled inside the model)."
+}

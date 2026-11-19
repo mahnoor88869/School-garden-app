@@ -1,0 +1,31 @@
+comment_id,text,sentiment_label
+P04_F28,The watering sheet contains six columns.,neutral
+P04_F16,The damaged tool was awful to use.,negative
+P04_F24,The tool box contains three items.,neutral
+P04_F18,The dry garden beds are worrying.,negative
+P04_F09,The neat garden beds look lovely.,positive
+P04_F10,The patient teacher made the leaf activity enjoyable.,positive
+P04_F29,The tools are stored in the shed.,neutral
+P04_F25,The leaf photograph was taken on Tuesday.,neutral
+P04_F13,The missing tools made the activity annoying.,negative
+P04_F01,The garden is beautiful and well maintained.,positive
+P04_F05,The clean hose and tidy tools are wonderful.,positive
+P04_F17,The rude response to the request was upsetting.,negative
+P04_F06,I am happy with the careful maintenance.,positive
+P04_F14,The dirty watering equipment was unpleasant.,negative
+P04_F12,I am unhappy with the neglected garden.,negative
+P04_F23,The hose is beside the garden gate.,neutral
+P04_F02,The watering tools are excellent.,positive
+P04_F03,The helpful volunteer explained the watering log clearly.,positive
+P04_F26,There are four rows of bean plants.,neutral
+P04_F04,I enjoyed the peaceful garden activity.,positive
+P04_F22,The watering record was entered at noon.,neutral
+P04_F27,The thermometer is attached to the wall.,neutral
+P04_F19,"Great, the hose is broken again and the tools are missing.",negative
+P04_F30,The garden visit begins at ten oclock.,neutral
+P04_F21,The plants are in bed number two.,neutral
+P04_F08,The friendly team gave excellent support.,positive
+P04_F11,The broken hose is frustrating.,negative
+P04_F15,I am disappointed with the confusing maintenance notes.,negative
+P04_F20,The flowers look nice but the poor maintenance is disappointing.,negative
+P04_F07,The clear leaf photographs were useful.,positive

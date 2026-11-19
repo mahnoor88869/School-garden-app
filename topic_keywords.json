@@ -1,0 +1,18 @@
+{
+  "watering": [
+    "water",
+    "watering",
+    "dry"
+  ],
+  "tools": [
+    "tool",
+    "hose",
+    "equipment"
+  ],
+  "maintenance": [
+    "leaf",
+    "leaves",
+    "garden",
+    "weeds"
+  ]
+}
